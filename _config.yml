@@ -1,13 +1,13 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              CCPA 회장 이다.
+email:              dwkang0@gmail.com
+description:        CCPA의 공식 블로그 이다. 소식 도 전한 다.
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://ccpablog.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
-github_username:    BlackrockDigital
+github_username:    dwkang0
 facebook_username:  StartBootstrap
 linkedin_username:
 
