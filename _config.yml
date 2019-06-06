@@ -6,9 +6,9 @@ baseurl:            ""
 url:                "https://ccpablog.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
+twitter_username:   
 github_username:    dwkang0
-facebook_username:  StartBootstrap
+facebook_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
