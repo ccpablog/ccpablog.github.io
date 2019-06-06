@@ -1,3 +1,8 @@
+# Extensions
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: clean-blog
+
 # Header
 menu:
   Home: /
