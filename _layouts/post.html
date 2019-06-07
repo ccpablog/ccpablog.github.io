@@ -1,6 +1,5 @@
 ---
 layout: default
-comments: true
 ---
 
 <!-- Page Header -->
@@ -35,10 +34,10 @@ comments: true
 
         {{ content }}
 
-        <p> asdasdasdasd </p>
-        <!-- {% if post.comments %} -->
-        {% include disque_comments.html %}
-        <!-- {% endif %} -->
+        {% if page.comments == true %}
+        <!-- <p> yes </p> -->
+        {% include disqus_comments.html %}
+        {% endif %}
 
         <hr>
 

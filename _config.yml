@@ -5,10 +5,13 @@ author:             ccpa's master
 baseurl:            ""
 url:                "https://ccpablog.github.io"
 
+disqus_url: disqus.com/by/ccpablog
+disqus_id: ccpablog
+
 # Social Profiles
-twitter_username:   
+twitter_username:
 github_username:    dwkang0
-facebook_username:  
+facebook_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
