@@ -34,7 +34,7 @@ layout: default
 
         {{ content }}
 
-        {% if page.comments == true %}
+        {% if page.comments != false %}
         <!-- <p> yes </p> -->
         {% include disqus_comments.html %}
         {% endif %}
