@@ -27,5 +27,6 @@ category: ccpa discord
 * [Altale](https://youtu.be/ikr59Iplnlo)
 * [Delirium](https://youtu.be/8mp3gNFN61Y)
 * [doppelganger](https://youtu.be/Xx3QSxV4ZKQ)
-* [Dragon Night](https://www.youtube.com/watch?v=zENTril6suQ)
+* [Stargazer](https://www.youtube.com/watch?v=zENTril6suQ)
+* [Dragon Night](https://youtu.be/gsVGf1T2Hfs)
 * [Moonlight Station](https://www.youtube.com/watch?v=KmvYJtdJoEw)
