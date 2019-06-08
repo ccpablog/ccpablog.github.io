@@ -36,6 +36,7 @@ CCPA Cafe는 [github 링크](https://github.com/dwkang0/ccpa-page)에서 2명이
 
 ---
 +사이트 스크린샷
+
 홈
 ![img](/img/posts/ccpaweb-2.png){: width="100%", hight="100%"}
 
