@@ -1,13 +1,12 @@
 ---
 layout: post
-title: CCPA 블로그 개장!
+title: CCPA의 블로그가 개설되었습니다.
 date: 2019-6-7 23:31:13 +0900
 background: /img/bg-post.jpg
 comments: true
 category: ccpa
 ---
 
-#  CCPA 블로그가 개설되었습니다.
 ## Introdution
  저희 CCPA는 다가오는 4차 산업혁명 시대에서의 기본 소양을 기르기 위해 프로그래밍 교육을 하는 것을 목적으로 설립되었습니다. 이를 통해 프로그래밍적 사고방식을 배워 논리적인 사고 능력을 배양하고, 실생활, 학문, 직업 생활에서 발생하는 여러가지 문제를 효율적으로 해결할 수 있도록 합니다.
 
