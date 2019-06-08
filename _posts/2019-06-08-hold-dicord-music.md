@@ -2,7 +2,7 @@
 layout: post
 title: 디스코드 노래봇에 쓸 노래 의견 모집
 date: 2019-6-8 20:04 +0900
-background: _img/posts/cafe.jpg
+background: /img/posts/cafe.jpg
 comments: true
 category: ccpa discord
 - - - 
