@@ -11,6 +11,7 @@ category: ccpa discord
 부회장님이 디스코드에 노래봇을 넣고 싶다고 하십니다. 저희가 뜻을 모아 열과 성을 다해서 최선의 재생 목록을 작성해 드립시다. 포스트 아래에 댓글로 의견 작성해 주세요
 
 ### 현재까지 모집된 노래 목록
+**제목 누르면 링크로 연결됩니다**
 * [악흥의 순간](https://youtu.be/e-k3QB3fjLk)
 * [조혜련과 태보의 저주](https://youtu.be/oIa3BFBHJFI)
 * [Etude-Tableaux Op.33 No.4 in D Mino](https://youtu.be/rQG8IeClBkw)
