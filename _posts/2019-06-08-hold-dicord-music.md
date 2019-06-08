@@ -1,11 +1,11 @@
-- - - 
+--- 
 layout: post
 title: 디스코드 노래봇에 쓸 노래 의견 모집
 date: 2019-6-8 20:04 +0900
 background: /img/posts/cafe.jpg
 comments: true
 category: ccpa discord
-- - - 
+--- 
 
 ## 댓글로 노래 의견 모집 중
 부회장님이 디스코드에 노래봇을 넣고 싶다고 하십니다. 저희가 뜻을 모아 열과 성을 다해서 최선의 재생 목록을 작성해 드립시다. 포스트 아래에 댓글로 의견 작성해 주세요
