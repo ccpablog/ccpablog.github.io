@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "CCPA 블로그 개장!"
+title: CCPA 블로그 개장!
 date: 2019-6-7 23:31:13 +0900
+background: /img/bg-post.jpg
 comments: true
 category: ccpa
 ---
