@@ -32,6 +32,4 @@ category: ccpa discord
 * [Moonlight Station](https://www.youtube.com/watch?v=KmvYJtdJoEw)
 
 ### 현황 
-일시 | 내용 | 비고
----|:---:|---
-2019-06-09 | 테스트서버에서 테스트중입니다. | 테스트 중인 봇 : FredBot,~~Rythm~~
+2019-06-09  테스트서버에서 테스트중입니다. 테스트 중인 봇 : FredBot,~~Rythm~~
