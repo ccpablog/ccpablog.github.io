@@ -2,7 +2,7 @@
 layout: post
 title: "정부올림피아드 출전인민들은 잘 보시라우."
 date: 2019-6-10 17:16 +0900
-background: "https://i.ytimg.com/vi/TpPwI_Lo0YY/hqdefault.jpg"
+background: /img/posts/hqdefault.jpg
 comments: true
 category: ccpa contest
 ---
