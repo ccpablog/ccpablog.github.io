@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "COI 2019 문제 복기"
