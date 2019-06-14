@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COI 2019 : 2. 동물원 입장료 내기"
-date: 2019-6-13 17:17 +0900
+date: 2019-6-13 16:17 +0900
 background: /img/posts/hqdefault.jpg
 comments: true
 category: ccpa contest
